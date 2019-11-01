@@ -1,0 +1,13 @@
+.accordion>.card{
+  padding-top: 1%;
+  align-items:center;
+}
+
+.card{
+  border:0;
+  text-decoration:none;
+}
+
+.btn-link:hover{
+  text-decoration:none
+}
