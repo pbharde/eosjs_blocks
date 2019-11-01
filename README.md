@@ -1,11 +1,18 @@
-install node to run this app
+1. install node to run this app
 
-clone this app -- git clone https://github.com/pbharde/eosjs_blocks.git
+2. clone this app -- git clone https://github.com/pbharde/eosjs_blocks.git
 
-cd eosjs_blocks
+3. cd eosjs_blocks
 
-npm install
+4. npm install
 
-npm start
+5. npm start
 
-run app on chrome http://localhost:3000/
+6. run app on chrome http://localhost:3000/
+
+
+or 
+
+you can directly access this app on:
+
+https://nostalgic-archimedes-997f1f.netlify.com/
